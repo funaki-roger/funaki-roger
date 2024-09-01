@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.interface {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.btn-contato button{
+    padding: 10px 40px;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #ebdd22;
+    border: 0;
+    border-radius: 30PX;
+    cursor: pointer;
+    transition: .2s;
+}
+
+h2.titulo{
+    color: #fff;
+    font-size: 20px;
+    padding: 40px 4%;
+}
+
+h2.titulo span{
+    color: #ebdd22;
+}
+
+header{
+    padding: 40px 4%;
+}
+
+header > .interface{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a{
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    transition: .2s;
+}
+
+header a:hover{
+    color: #ebdd22;
+    transform: scale(1.10);
+}
+
+header nav ul{
+    list-style-type: none;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 40px;
+}
+
+
+section.topo-do-site{
+    padding: 30px 4%;
+}
+
+section.topo-do-site .flex{
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+
+.topo-do-site h1{
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.topo-do-site .txt-topo-site h1 span{
+    color: #ebdd22;
+    font: 17px;
+}
+
+.topo-do-site .txt-topo-site p{
+   color: #ffffff;
+   font-size: 14px;
+
+}
+
+
+
+.topo-do-site .img-topo-site img{
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+}
+
+@keyframes flutuar{
+    0%{
+        top: 0;
+    }
+    100%{
+        top: 30px;
+    }
+}
+
+section.experiencias{
+    padding: 30px 4%;
+}
+
+.experiencias {
+    display: flex;
+    justify-content: space-between; /* Distribui os itens igualmente */
+    gap: 20px; /* Espaçamento entre os itens */
+}
+
+.experiencias .experiencias-box {
+    display: block; /* Faz com que o link ocupe o espaço total */
+    color: #fff;
+    padding: 10px 4%;
+    border: 2px solid #ebdd22;
+    margin-top: 30px;
+    margin: 30px;
+    transition: .2s;
+    flex: 1; /* Faz com que todos os itens ocupem a mesma largura */
+    text-align: center; /* Alinha o conteúdo ao centro */
+    border-radius: 30px; /* Ajusta o border-radius conforme seu estilo */
+    text-decoration: none; /* Remove o sublinhado dos links */
+}
+
+.experiencias .experiencias-box:hover {
+    transform: scale(1.10);
+    box-shadow: 0 0 20px 5px #ebdd22;
+    cursor: pointer;
+}
+
+.experiencias .experiencias-box i {
+    font-size: 50px;
+    color: #ebdd22;
+    vertical-align: middle; /* Alinha verticalmente com o texto */
+    margin-right: 10px; /* Espaçamento entre o ícone e o texto */
+}
+
+.experiencias .experiencias-box h3 {
+    font-size: 20px;
+    margin: 15px 0;
+    display: flex;
+    align-items: center; /* Alinha verticalmente o ícone e o texto */
+    justify-content: center; /* Centraliza o conteúdo */
+}
+
+.icon-text {
+    display: inline-flex;
+    align-items: center; /* Alinha verticalmente o ícone e o texto */
+}
+
+.highlight {
+    color: #ebdd22; /* Amarelo para o "In" */
+}
+
+.linkedin span {
+    color: #ebdd22; /* Amarelo para o "Linked" */
+}
+
+section.sobre{
+    padding: 30px 4%;
+    text-align: justify;
+}
+
+.sobre .txt-sobre{
+    color: #fff;
+    font-size: 14px;
+}
+
+.sobre .txt-sobre h2{
+    font-size: 20px;
+}
+
+.sobre .txt-sobre h2 span{
+    color: #ebdd22;
+    display: block;
+}
+
+.sobre .img-sobre {
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+}
+
+.sobre .txt-sobre .btn-social button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    background-color: #ebdd22;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 0 4px;
+}
+
+button:hover{
+    box-shadow: 0px 0px 20px 2px #ebdd22;
+    transform: scale(1.10);
+    }
