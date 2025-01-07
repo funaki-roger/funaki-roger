@@ -1,15 +1,36 @@
-### Seja bem-vindo ao meu GitHub 👋
+# Olá, seja bem-vindo ao meu GitHub 👋
 
-👨‍💻 Atuo como QA (Quality Assurance), focado em garantir a qualidade e a confiabilidade dos produtos através de testes rigorosos e automatizados.
+Minha jornada na tecnologia começou de forma desafiadora, mas esses desafios moldaram minha determinação e me ensinaram a nunca desistir. Iniciei minha carreira atuando com suporte ao usuário em empresas como **SONDA IT**, **Grupo Protege**, **SGS** e **Equifax | BoaVista**. Essa experiência foi essencial para desenvolver uma visão prática das necessidades dos usuários finais e entender os desafios enfrentados no dia a dia.
 
-🛠️ Minha jornada na área de TI começou em 2013, onde desenvolvi uma sólida base em suporte técnico. Ao longo dos anos, tive a oportunidade de atuar em diversas áreas, incluindo Service Desk, Help Desk, Técnico de TI Pleno, Analista de Suporte, e Suporte Cloud. Essas experiências me proporcionaram uma visão abrangente dos desafios e das necessidades tecnológicas das empresas, capacitando-me a resolver problemas complexos e a oferecer suporte eficiente em ambientes dinâmicos.
+Posteriormente, na **Stone Co.**, dei meus primeiros passos na área de **DevOps**, criando scripts de testes e explorando ferramentas que ampliaram minhas habilidades técnicas. Essa transição foi o ponto de partida para minha atuação como **QA (Quality Assurance)**, área onde me dedico a assegurar a excelência de sistemas por meio de análises criteriosas e testes abrangentes.
 
-🚀 No ano passado, decidi migrar para a área de QA, onde posso aplicar meu conhecimento técnico para garantir que os produtos atendam aos mais altos padrões de qualidade. Meu foco é em testes funcionais, exploratórios e automatizados, sempre buscando aprender e implementar as melhores práticas da indústria.
+## Experiência
 
-🌐 Tenho um nível intermediário de inglês, com boa compreensão de leitura e escrita, e consigo entender bem a fala, o que me permite interagir com equipes e projetos internacionais.
+Hoje, possuo ampla experiência em testes para aplicações **web**, **mobile** e **APIs**, incluindo testes:
 
-Estou animado para compartilhar meus projetos e contribuições aqui no GitHub.
+- Funcionais
+- De regressão
+- De aceitação
+- De integração
+- De performance
+- De segurança
+- De usabilidade
 
-#### Contato
-##### 📧 Email: rogerfunaki@outlook.com
-##### 🔗 LinkedIn: https://www.linkedin.com/in/rogerfunaki/
+Trabalho tanto com **testes manuais** quanto **automatizados**, registrando defeitos, acompanhando resoluções e elaborando relatórios que garantem a eficiência e a confiabilidade dos sistemas.
+
+## Filosofia de Aprendizado
+
+Sempre que possível, dedico-me a estudar algo novo, explorando conhecimentos que ampliem minhas habilidades e me ajudem a enfrentar novos desafios. Vejo cada projeto como uma oportunidade de crescer e contribuir para soluções que façam a diferença.
+
+## Sobre Mim
+
+Além da minha carreira, sou **cristão**, **casado** e **pai da Olivia**, que é minha maior inspiração. Apaixonado por **esportes** e pela **cultura japonesa**, sigo a máxima de **Sun Tzu**: 
+
+> "Toda batalha é vencida antes mesmo de ser lutada."
+
+Meu objetivo é continuar evoluindo como **QA**, enfrentando desafios que impulsionem minha carreira e me permitam entregar **resultados de excelência**, sempre com dedicação e comprometimento.
+
+## Contato
+
+- 📧 Email: [rogerfunaki@outlook.com](mailto:rogerfunaki@outlook.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/rogerfunaki/](https://www.linkedin.com/in/rogerfunaki/)
