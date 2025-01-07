@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo ao meu GitHub 👋
 
-Sou **Roger Funaki**, profissional de **QA** com experiência em suportes como **SONDA IT**, **Grupo Protege**, **SGS**, e **Equifax | BoaVista**. Depois, transitei para **DevOps** na **Stone Co.**, onde descobri minha paixão por **Quality Assurance**.
+Sou **Roger Funaki**, profissional de **QA** com experiência em suportes como **SONDA IT**, **Grupo Protege**, **SGS**, e **Equifax | BoaVista**. Depois, trabalhei na equipe de **Infraestrutura (DevOps)** da **Stone Co.**, onde ficava responsável por testar as implementações feitas pela equipe, garantindo que tudo funcionasse conforme esperado.
 
 ## Experiência
 
