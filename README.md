@@ -1,40 +1,92 @@
-# Olá, seja bem-vindo ao meu GitHub 👋
+# Olá, eu sou Roger Funaki 👋
 
-Sou **Roger Funaki**, profissional de **QA** com experiência em **suporte ao usuário** em empresas como **SONDA IT**, **Grupo Protege**, **SGS** e **Equifax | BoaVista**. Em seguida, trabalhei na **TPC** como **Técnico de TI**, sendo promovido para **Pleno** e atuando na infraestrutura de galpões de clientes como **Crocs** e **Puma**, com foco em **datacenter**, **racks de internet** e **backups**. Depois, fui para a **Intecom**, onde implantei novas soluções de **monitoramento** com **Zabbix** e **Grafana** e criei **documentações técnicas**. 
+Sou **Analista de QA Pleno**, com experiência em estratégia, planejamento e execução de testes em aplicações **Web, Mobile, APIs e integrações entre sistemas**.
 
-Na **Prime Arte**, atuei como **testador**, realizando **testes de performance**, **validação de backup** e **monitoramento de recursos na GCP**. Aprendi sobre a cultura **DevOps** que estava emergindo no Brasil, e isso me ajudou a expandir minha visão sobre como a integração entre desenvolvimento e operações pode melhorar a qualidade dos sistemas.
+Atuo na definição de cenários e critérios de aceite, análise de riscos, cobertura de fluxos críticos, automação de testes, gestão de defeitos e homologação de soluções ponta a ponta.
 
-Na **Stone Co.**, atuei na equipe de **Infraestrutura (DevOps)**, com foco em **QA**, realizando **testes** e **controle de qualidade** nas implementações feitas pela equipe para garantir que tudo funcionasse conforme esperado.
+Ao longo da minha trajetória em Qualidade, também assumi responsabilidades complementares ao QA, atuando de forma transversal entre **Produto, Engenharia, processos e negócio**.
 
-Atualmente, estou na **BlockBR**, onde desempenho as funções de **QA** e **Scrum Master**, conduzindo **rituais ágeis** como **dailys**, **reviews** e **retrospectivas**, além de me dedicar à **garantia da qualidade** em aplicações web. Apesar de atuar em duas frentes, meu foco principal está na área de **QA**, buscando sempre entregar soluções confiáveis e de alto impacto.
+## 🧪 Qualidade de Software
 
+Tenho experiência com:
 
-## Experiência
+- Planejamento e estratégia de testes
+- Testes funcionais
+- Testes regressivos
+- Testes exploratórios
+- Testes de integração
+- Testes de API
+- Testes E2E
+- Testes Web e Mobile
+- Testes de performance
+- Automação de testes
+- Análise de requisitos e critérios de aceite
+- Gestão, documentação e reteste de defeitos
+- Validação de regras de negócio
+- Levantamento de evidências e homologação
 
-Tenho experiência em testes **web**, **mobile** e **APIs**, incluindo testes de:
+## 🛠️ Tecnologias e Ferramentas
 
-- Funcionalidade
-- Regressão
-- Aceitação
-- Integração
+**Automação**
+- Playwright
+- Cypress
+- Selenium
+
+**APIs**
+- Postman
+- APIs REST
+
+**Performance**
+- JMeter
+- k6
+
+**Dados**
+- SQL
+- PostgreSQL
+- Cloud Spanner
+
+**Qualidade e Gestão**
+- Azure DevOps
+- Azure Test Plans
+- Jira
+- Git
+- GitHub
+
+**CI/CD e Observabilidade**
+- Pipelines CI/CD
+- New Relic
+- Grafana
+- Zabbix
+
+**Cloud e DevOps**
+- Google Cloud Platform
+- Azure
+- Docker
+
+## 💼 Experiência
+
+Minha trajetória em tecnologia começou em **Suporte e Infraestrutura** e, em 2021, tive a oportunidade de realizar a transição para **Qualidade de Software**.
+
+Desde então, venho evoluindo em QA, passando por experiências envolvendo:
+
+**Testes → Automação → APIs → Dados → Performance → CI/CD → Observabilidade → E2E → Estratégia de Testes → Produto e Negócio**
+
+Também já conciliei responsabilidades de **QA e Scrum Master** e atualmente atuo em uma posição que conecta **Qualidade, Produto, Engenharia e negócio**.
+
+## 🎯 Foco atual
+
+Continuo aprofundando meus conhecimentos em:
+
+- Quality Engineering
+- Automação de Testes
+- API Testing
+- Testes E2E
+- CI/CD
 - Performance
-- Segurança
-- Usabilidade
+- Observabilidade
+- Inteligência Artificial aplicada à Qualidade de Software
 
-Atuo com **testes manuais** e **automatizados**, buscando sempre entregar sistemas confiáveis e eficientes.
+## 📫 Contato
 
-## Filosofia de Aprendizado
-
-Sempre estou em busca de aprender algo novo e vejo cada projeto como uma oportunidade de crescimento e contribuição.
-
-## Sobre Mim
-
-Sou **cristão**, **casado** e **pai da Olivia**, minha maior inspiração. Amo **esportes** e a **cultura japonesa**, e sigo o princípio de que: 
- 
-_"O sucesso é a soma de pequenos esforços repetidos dia após dia."_
-
-
-## Contato
-
-- 📧 [rogerfunaki@outlook.com](mailto:rogerfunaki@outlook.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rogerfunaki/)
+- **LinkedIn:** [linkedin.com/in/rogerfunaki](https://www.linkedin.com/in/rogerfunaki/)
+- **E-mail:** [rogerfunaki@outlook.com](mailto:rogerfunaki@outlook.com)
